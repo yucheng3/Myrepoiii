@@ -1,0 +1,28 @@
+MS工具 SSIS
+
+MySQL databasemygra
+
+
+SQL SERVER先用本機登入
+來源
+Northwind資料庫  右鍵 工作 匯出資料 下一步
+sql server native client 11.0 
+CR4-08\MSSQLSERVER2013
+目的
+sql server native client 11.0 
+CR4-08\MSSQLSERVER2013
+mis2
+
+下一步
+
+從一個或多個資料表或檢視表複製資料
+
+下一步
+
+[dbo].[Products]
+
+預覽
+
+下一步
+
+完成
