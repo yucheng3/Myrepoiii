@@ -1,5 +1,5 @@
 ﻿
-# DB 2015/05/13
+# DB 2015/06/04
 
 - Customer 會員資料表<br>
 - Factory  廠商資料表<br>
@@ -10,8 +10,8 @@
 - News 最新消息資料表<br>
 - Aboutus 關於我們資料表<br>
 - FAQ 網站問與答<br>
-- CustomerDetails 訂單表_<br>
-- CustomerProducts 訂單明細表_<br>
-- DeliveryStatus 訂單物流狀態表_<br>
+* CustomerDetails 訂單表<br>
+* CustomerProducts 訂單明細表<br>
+* DeliveryStatus 訂單物流狀態表<br>
 <br>
     yucheng
