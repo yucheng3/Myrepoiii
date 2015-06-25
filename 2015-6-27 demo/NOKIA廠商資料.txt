@@ -1,0 +1,7 @@
+fName NOKIA
+fContact 蘇先生
+fPhone 02-8192-1916
+fFax 02-2719-9595
+fEmail jessica.chiu@nokoa.comf
+Address	10596台北市松山區民生東路3段100號10樓
+fTaxID 84311801

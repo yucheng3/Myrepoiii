@@ -1,0 +1,73 @@
+pName NOKIA Lumia 930
+pPrice 16930
+
+pIntroduction 
+諾基亞 NOKIA Lumia 930 旗艦級智慧型手機
+美型設計結合金屬質感與鮮豔色彩
+諾基亞推出搭載 Windows Phone 8.1 的 NOKIA Lumia 930 旗艦級智慧型手機，完美外觀設計兼顧了金屬與聚酯材料機身的優雅和耐用，擁有 5 吋 OLED ClearBlack 抗反光觸控螢幕、1,920 x 1,080pixels 螢幕解析度，像素密度高達 441ppi，同時配備了 Corning Gorilla Glass 3 玻璃螢幕，顯示效果清晰逼真、色彩還原更真實；具備多彩外殼，提供橘、黑、白三色選擇。NOKIA Lumia 930 還內建四枚高音質麥克風與「NOKIA Rich Recording 環場音效」技術，絕佳的指向性收音，提供宛如重回現場般的立體環繞音效。
+
+超凡的威力和速度
+NOKIA Lumia 930 採用 Windows Phone 8.1 作業系統，內建多種功能，包含一次讀取所有通知的 Action Centre 下拉式控制中心、全新 Microsoft Enterprise 功能套件、Microsoft Office、OneDrive、NOKIA Camera 以及 HERE 地圖和 HERE 導航等功能，完美整合所有功能讓工作和娛樂隨心所欲。搭載 Qualcomm Snapdragon 800, 2.2GHz 四核心處理器與 2GB RAM / 32GB ROM 儲存空間（隨附 7GB 免費 OneDrive 雲端儲存），並支援 4G LTE 暢快飆網，不論玩遊戲、拍照或錄影都提供前所未有的處理效能。NOKIA Lumia 930 更支援 NFC、Qi 無線充電功能，內建全新的 SensorCore 技術，提供低功耗的動作感應作業，可記錄一整天的活動而不致大量消耗電力。
+
+高畫質相機拍攝
+NOKIA Lumia 930 搭載 2,000 萬畫素 PureView 相機與 120 萬畫素 HD 廣視角視訊鏡頭，並且配備高品質蔡司光學元件，支援 OIS 光學防手震、1080P Full HD 錄影、自動對焦、雙 LED 閃光燈、F/2.4 光圈、26mm 廣角與 3 倍數位變焦拍攝功能，讓你輕鬆捕捉動人影像。內建全新升級的 NOKIA Camera 提供 Living Images「生動影像」功能，可捕捉按下快門前的動態，留下瞬間的生動影像。NOKIA Storyteller「地圖相簿」則是可將相片集結成故事影片分享至 Facebook，搭配 NOKIA Creative Studio 與 NOKIA Refocus 等影像編修 App，為每張照片帶來更多創意。
+
+NOKIA Lumia 930 功能特色
+◎ 採用 Windows Phone 8.1 作業系統
+◎ 內建 Qualcomm Snapdragon 800, 2.2GHz 四核心處理器
+◎ 5 吋 OLED ClearBlack 抗反光觸控螢幕、1,920 x 1,080pixels 螢幕解析度 441ppi
+◎ 配備 Corning Gorilla Glass 3 玻璃螢幕
+◎ 2,000 萬畫素 PureView 相機、並具備 OIS 光學防手震和高保真錄製功能
+◎ 120 萬畫素 HD 廣視角視訊鏡頭
+◎ 支援 4G LTE 行動網路 / Wi-Fi 無線網路、支援 Qi 無線充電、NFC
+◎ 內建 2GB RAM / 32GB ROM 儲存空間（隨附 7GB 免費 OneDrive 雲端儲存）
+
+pSpecification
+基本資訊
+頻率系統:GSM850, HSUPA, GSM1800, GSM900, WCDMA, HSDPA, GSM1900, FDD-LTE 1800(B3), FDD-LTE 800(B20), FDD-LTE 2100(B1), FDD-LTE 900(B8), FDD-LTE 2600(B7)
+作業系統(平台):Windows Phone 8.1
+處理器:Qualcomm Snapdragon 800, 2.2GHz
+處理器分類:四核心處理器
+主螢幕尺寸:5吋
+前置鏡頭:120萬畫素
+內建相機畫素:2000萬畫素
+RAM記憶體:2GB
+ROM/內建儲存空間:32GB
+傳輸介面:藍牙, A2DP, USB, NFC
+藍牙版本:V4.0
+
+影音資訊
+感光元件:CMOS
+相機功能:自動對焦, LED 閃光燈, Full HD, 相片座標記錄, 全景模式拍攝
+錄影格式MPEG4
+影片播放格式:3GP2, WMV, AVI, m4v, MPEG4, H.264, ASF, 3GP, H.263, mov
+音樂播放器:M4A, AAC, AMR, MP3, WMA
+
+螢幕資訊
+主螢幕解析度:1920*1080pixels
+主螢幕材質:OLED
+
+網路資訊
+上網方式:GPRS, EDGE, 3G / WCDMA, 4G / LTE, 3.5G / HSDPA, Wi-Fi / WLAN
+E-mail格式SMTP, IMAP4, POP3
+
+內建功能
+進階功能:GPS(衛星導航), A-GPS
+實用工具:世界時鐘, 行動電子錢包, 計算機, 待辦事項, 鬧鈴, 日曆, FM收音機
+Office文件PPT(PowerPoint), OneNote, PDF, DOC(Word), XLS(Excel)
+
+機身資訊
+機身長度:137mm(公厘)
+機身寬度:71mm(公厘)
+機身厚度:9.8mm(公厘)
+機身重量:167g(公克)
+電池容量:2420mAh(毫安培)
+機身設計:直立式, 雙鏡頭, 3.5mm 耳機孔
+操作介面:直式 / 橫式螢幕切換, 觸控螢幕
+機身顏色:白, 橘, 黑
+通話時間(最大):11.5HR(小時)
+WCDMA通話時間(最大):15.5HR(小時)
+
+pPhoto1 NOKIA_Lumia_930_1_640x480.jpg	
+pPhoto2 NOKIA_Lumia_930_2_640x480.jpg
+pPhoto3	NOKIA_Lumia_930_3_640x480.jpg
